@@ -1,7 +1,0 @@
-*
-V1 N001 0 PULSE(0 5 0 1u 1u 1 2 5)
-R1 Vout N001 40k
-C1 Vout 0 0.1µ
-.tran 11
-.backanno
-.end
